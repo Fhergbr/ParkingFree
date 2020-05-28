@@ -1,0 +1,252 @@
+/*------------------------------------------------------------------------
+* Copyright (c) 2008-2013 ZooTemplate. All Rights Reserved.
+* @license - Copyrighted Commercial Software
+* Author: ZooTemplate
+* Websites:  http://www.zootemplate.com
+-------------------------------------------------------------------------*/
+
+/*Narrow Browser Windows and Smartphones in both orientations*/
+@media only screen and (min-width: 0px) and (max-width: 767px) {
+	
+
+    #zt-footer-inner{
+        text-align: center;
+    }
+    #zt-social > div{
+        float: none !important;
+        padding-top: 15px;
+    }
+    .floatleft.width25, .floatleft.width33, .floatleft.width40, .floatright.width60, .floatleft.width50, .floatleft.width30 {
+        width: 100% !important;
+    }
+    #zt-top-menu ul{
+        margin: 0 auto;
+        text-align: center;
+    }
+    #zt-top-menu ul li{
+        display: inline;
+        float: none !important;
+        padding: 0 10px;
+        height: 30px;
+        line-height: 30px;
+    }
+    #zt-banner img{
+        width: 100%;
+    }
+    #zt-userwrap7 h3.zt-title{
+        display: block;
+        float: none !important;
+    }
+    #zt-logo-image{
+        text-align: center;
+    }
+		/*leandro*/
+	.lista_produtos{display:none;}
+	.miolo_produtos{width: 100% !important;}
+	.hidden-desktop{display:block;}
+ #tabela_pgto1{
+float:none !important;width:100%  !important;
+}
+#tabela_pgto2{
+float:none !important;width:100%  !important;
+}
+}
+/*Ipad Portrait*/
+@media (min-width: 769px) and (max-width: 979px) {
+    .zt-header-text p{
+        height: 33px !important;
+    }
+    #zt-highlight .element {
+        height: auto!important;
+        width: 30.5% !important;
+    }
+    #zt-userwrap7 h3.zt-title{
+        display: block;
+        float: none !important;
+    }
+	.miolo_produtos{width: 100% !important;}
+	.lista_produtos{display:none;}
+}
+
+@media (min-width: 980px) and (max-width: 1170px) {
+    .zt-header-text p{
+        height: 45px !important;
+    }
+    #zt-highlight .element {
+        margin-right: 20px;
+        margin-left: 20px;
+        margin-bottom: 40px;
+    }
+	.miolo_produtos{width: 800px !important;}
+	.lista_produtos{display:none;}
+
+}
+@media only screen and (min-width: 0px) and (max-width: 1000px){
+    .pricing_box h2{
+        font-size: 35px !important;
+    }
+    .pricing_box .header span{
+        font-size: 12px !important;
+    }
+}
+
+@media (min-width: 600px) and (max-width: 768px) {
+    #zt-highlight .element{
+        width: 30.5% !important;
+        height: auto!important;
+    }
+    .zt-header-text p{
+        height: 33px !important;
+    }
+    table.cart-summary tr th{
+        padding: 6px 15px !important;
+    }
+    .rtl #zt-top-action #zt-cart-inner,
+    .rtl #zt-top-action #zt-searchform-inner{
+        right: -20px;
+        left: auto;
+        width: 100%;
+    }
+    .rtl #zt-top-action .vmcart-border,
+    .rtl #zt-searchform-inner .search-border{
+        width: 100%;
+    }
+    .rtl #zt-searchform-inner .search-border:before{
+        right: 100px;
+    }
+    .rtl #zt-top-action .vmcart-border:before{
+        right: 62px !important;
+    }
+    #zt-userwrap7 h3.zt-title{
+        width: 100%;
+    }
+    .scroller-slider{
+        margin: 0 10%;
+        width: 80% !important;
+    }
+}
+@media (min-width: 769px) and (max-width: 1024px) {
+    .scroller-slider{
+        margin: 0 4%;
+        width: 93% !important;
+    }
+}
+/* Landscape phones and down */
+@media (max-width: 500px) {
+    .itemAuthorContent{
+        width: 90% !important;
+    }
+    .itemCommentsForm .inputCommentName,
+    .itemCommentsForm .inputCommentEmail,
+    .itemCommentsForm .inputCommentUrl{
+        width: 90% !important;
+    }
+    #zt-position-17 h3.moduletitle{
+        text-align: center;
+    }
+    #zt-position-17 ul.weblinks,
+    #zt-position-17 ul.menu{
+        margin: 0 40px;
+    }
+    #zt-userwrap7{
+        text-align: center;
+    }
+    #zt-social{
+        float: none!important;
+    }
+    #zt-userwrap7 h3.zt-title{
+        text-align: center !important;
+    }
+    #zt-userwrap7 input[type="text"], #zt-userwrap7 input[type="password"], #zt-userwrap7 input[type="url"], #zt-userwrap7 input[type="email"]{
+        float: none !important;;
+    }
+    #zt-userwrap7 input[type="submit"]{
+        float: none !important;
+        margin-left: -10px!important;
+    }
+    #zt-highlight .element{
+        margin-left: 25%;
+        margin-right: 25%;
+    }
+    #zt-position-18,
+    #zt-position-19,
+    #zt-position-20,
+    #zt-position-21,
+    #zt-position-22{
+        text-align: center;
+    }
+    #zt-logo-image{
+        text-align: center;
+    }
+    .cart-view table.cart-summary tr th:nth-child(2),
+    .cart-view table.cart-summary tr td:nth-child(2),
+    .cart-view table.cart-summary tr th:nth-child(5),
+    .cart-view table.cart-summary tr td:nth-child(5),
+    .cart-view table.cart-summary tr th:nth-child(6),
+    .cart-view table.cart-summary tr td:nth-child(6),
+    .cart-view table.cart-summary tr th:nth-child(3),
+    .cart-view table.cart-summary tr td:nth-child(3) {
+        display: none;
+    }
+    #zt-highlight .option-set li{
+        margin: 0 5px 0 0 !important;
+    }
+    #zt-highlight .ztVMProductBlock .options{
+        width: 100% !important;
+        position: static!important;
+    }
+    #zt-highlight h3.moduletitle{
+        width: 100% !important;
+    }
+    .rtl #zt-top-action #zt-cart-inner,
+    .rtl #zt-top-action #zt-searchform-inner{
+        right: 42%;
+    }
+    .rtl #zt-searchform-inner .search-border:before{
+        left: 10px !important;
+    }
+    .rtl #zt-top-action .vmcart-border:before{
+        left: 40px !important;
+        right: auto !important;
+    }
+    .scroller-slider{
+        margin: 0 17%;
+        width: 65% !important;
+    }
+}
+
+@media (max-width: 360px) {
+    #zt-highlight .element{
+        margin-left: 8%;
+        margin-right: 8%;
+    }
+    .rtl #zt-top-action #zt-cart-inner,
+    .rtl #zt-top-action #zt-searchform-inner{
+        right: 38px;
+    }
+    .rtl #zt-searchform-inner .search-border:before{
+        left: 15px !important;
+    }
+    .rtl #zt-top-action .vmcart-border:before{
+        left: 53px !important;
+        right: auto !important;
+    }
+    .scroller-slider {
+        margin: 0 2%;
+        width: 95% !important;
+    }
+}
+
+/*Medium-Wide Browser Windows*/
+@media only screen and (min-width: 980px) and (max-width: 1200px) {
+    #menusys_mega li span.no-image{
+        padding: 0 15px !important;
+    }
+    #menusys_mega li.item > a{
+        font-size: 130%;
+    }
+    article header ul li{
+        margin-right: 13px !important;
+    }
+
+}

@@ -1,0 +1,60 @@
+
+.bg-black{
+	background-color: #000000;
+}
+
+/*home*/
+.div-cpf{
+	display:block;
+}
+#sidebar{
+	height: 91%;
+}
+#outputPark{
+	display: none;
+}
+#inputPark{
+	display: block;
+}
+#btn-input{
+	display: none;
+}
+#info{
+	display: none;
+}
+#btn-addVacancy{
+	cursor: pointer;
+}
+
+/*Animation*/
+.animate {
+	-webkit-animation-name: example; /* Safari 4.0 - 8.0 */
+	-webkit-animation-duration: 10s ; /* Safari 4.0 - 8.0 */
+	animation-name: animationCar;
+	animation-duration: 2s ;
+	animation-iteration-count: infinite;
+}
+
+/* Safari 4.0 - 8.0 */
+@-webkit-keyframes animationCar {
+	25%   {color: red;}
+	50%  {color: yellow;}
+	75%   {color: red;}
+	100%  {color: yellow;}
+
+}
+
+/* Standard syntax */
+@keyframes animationCar {
+	25%   {color: red;}
+	50%  {color: yellow;}
+	75%   {color: red;}
+	100%  {color: yellow;}
+}
+.msg{
+	width: 300px;
+	position: absolute;
+	height: auto;
+	background-color: #bad343;
+	color:#fff;
+}

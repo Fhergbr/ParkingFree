@@ -1,0 +1,700 @@
+#bd {
+	color: #676767;
+	background-color: #ffffff;
+}
+#bd a {
+	color: #6491B8;
+}
+div#zt-header-top {
+	color: #ffffff;
+	background-color: #6491B8;
+}
+div#zt-header-top a {
+	color: #ffffff;
+}
+div#zt-header {
+	color: ;
+	background-color: #ffffff;
+}
+div#zt-userwrap7 {
+	color: #848484;
+	background-color: #ececec;
+}
+div#zt-userwrap7 a {
+	color: #848484;
+}
+div#zt-userwrap7 h3.moduletitle {
+	color: #676767;
+}
+div#zt-userwrap8 {
+	color: #848484;
+	background-color: #ececec;
+}
+div#zt-userwrap8 a {
+	color: #848484;
+}
+div#zt-userwrap8 h3.moduletitle {
+	color: #676767;
+}
+div#zt-footer {
+	color: #676767;
+	background-color: #c1c1c1;
+}
+div#zt-footer a {
+	color: #676767;
+}
+div#zt-footer h3.moduletitle {
+	color: #2F2F2F;
+}
+ body, #menusys_mega .news-events, #menusys_mega .menu-desc, #menusys_mega .megacol ul li a .menu-title{ font-family:  Open Sans; }
+ .drillmenu li a span.menusys_name, #menusys_mega .menu-title { font-family:  Open Sans; }
+  h1, h2, h3, h4, h5, h6 { font-family:  Open Sans; }
+  
+  
+
+#fb-root {
+	display: none;
+}
+.fb_iframe_widget, .fb_iframe_widget span, .fb_iframe_widget span iframe[style] {
+	width: 100% !important;
+	max-width: 1140px  !important;
+}
+.lista_produtos li {
+   line-height: 40px;
+    border-bottom: 1px dashed #C9D6E4 ;
+}
+.lista_produtos li  a{
+  display:block;
+}
+.lista_produtos li:hover {
+	background-color:#6491b8;
+	color:white !important;
+}
+.lista_produtos li a:hover {
+	color:white !important;
+	margin:0 0 0 10px !important;
+}
+.btn-adicionar-carrinho{
+    background: none repeat scroll 0 0 #5EA20D;
+    border-radius: 10px;
+    display: block;
+    padding: 0.8rem 0.5rem 0.8rem 4.5rem;
+    position: relative;
+    transition: all 0.16s ease 0s;}
+.btn-adicionar-carrinho > i {
+	    background: none repeat scroll 0 0 #7EB53D;
+    border-radius: 10px 0 0 10px;
+    color: #FFFFFF;
+    float: left;
+    font-size: 2rem;
+    height: 100%;
+    left: 0;
+    line-height: 4rem;
+    padding: 0;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    transition: all 0.16s ease 0s;
+    width: 4rem;}
+.btn-adicionar-carrinho > span.txt{
+	   color: #FFFFFF;
+   font-size: 1.125rem;
+    font-weight: 700 !important;
+    text-align: center;
+	}
+.btn-adicionar-carrinho > p {color:white;line-height: 0;}
+
+.preco-curso{
+  margin-bottom: 0.5rem;
+    padding: 0;
+    text-align: center;}
+	
+	
+	p.valor-regular{
+	  color: #525252;
+    font-size: 0.875rem;
+    font-weight: 300 !important;
+    margin-bottom: 0.5rem;
+    margin-top: 30px;}
+	
+	.preco-curso{margin-top:50px}
+	.preco-curso > .vlr-parcelado{
+	 padding: 0 0 0.5rem;
+    text-align: center;}
+	.vlr-parcelado > p > span{
+	color: #5EA00C;
+    font-size: 2.375rem;
+    font-weight: 800 !important;}
+	
+	.vlr-parcelado > p{
+	color: #525252;
+    font-size: 1.25rem;
+    line-height: 1.6rem;
+    margin-bottom: 0;}
+.bnt22{margin-top:50px}
+.btn-adicionar-carrinho:hover > i{
+background: none repeat scroll 0 0 #9DE643;
+    width: 4.4rem;}
+	.fa span{ font-family:  Open Sans; !important}
+	
+
+	#zt-content h1 {
+     font-family: Lato,arial,helvetica,sans-serif;
+	font-size: 48px;
+    letter-spacing: -0.05em;
+    line-height: 1.2;
+    text-align: center;
+	color: #2c3e50;
+	padding: 30px 0;
+	
+}
+#zt-content h1 strong{
+    font-weight: 900;
+	color: #2e66b7;
+	
+}
+
+#zt-content h2 {
+     font-family: Lato,arial,helvetica,sans-serif;
+	font-size: 38px;
+    letter-spacing: -0.05em;
+    line-height: 1.2;
+    text-align: center;
+	color: #2c3e50;
+	padding: 30px 0;
+	
+}
+#zt-content h2 strong{
+    font-weight: 900;
+	color: #2e66b7;
+	
+}
+
+
+.explore-temas-gestao {
+    color: #fff;
+    margin: 0 auto;
+    clear: both;
+    position: relative;
+    padding-bottom: 30px;
+	max-width: 90%;
+}
+.explore-temas-gestao h5 {
+    font-size: 14px;
+    padding-bottom: 15px;
+    margin-top: -32px;
+    float: left;
+    width: 100%
+}
+.explore-temas-gestao li {
+    background: #ff8040;
+    float: left;
+    position: relative;
+    margin: 20px 13px 0px 0;
+    width: 32%
+}
+.explore-temas-gestao li a {
+    padding: 10px 10px 9px 10px;
+    position: relative;
+    display: block;
+    font-size: 17px;
+    font-weight: 600;
+    
+    height: 100%;
+    color: #fff !important;
+    text-align: center
+}
+.explore-temas-gestao li a .ico {
+    margin-right: 20px
+}
+.explore-temas-gestao li a span {
+    display: block;
+    padding-top: 23px;
+    line-height: 1
+}
+.explore-temas-gestao li a .box-hover-temas-gestao {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: none;
+    padding: 10px 20px 0
+}
+.explore-temas-gestao li a .box-hover-temas-gestao p {
+    text-align: left
+}
+.explore-temas-gestao li a .box-hover-temas-gestao .bt-add-favorito-pequeno {
+    position: absolute;
+    bottom: 5px;
+    right: 10px
+}
+.explore-temas-gestao li a .box-hover-temas-gestao .bt-add-favorito-pequeno .ico-favorito-thumb {
+    margin: 0px
+}
+.explore-temas-gestao li:nth-child(3n) {
+    margin-right: 0px
+}
+.explore-temas-gestao li.software-nfe {
+    background: #ff8040
+}
+.explore-temas-gestao li.software-nfe a:hover {
+    background-color: #ff8040
+}
+.explore-temas-gestao li.software-nfe a {
+    background: #ff8040
+}
+.explore-temas-gestao li.software-nfe a a:hover {
+    background-color: #ff8040
+}
+.explore-temas-gestao li.software-nfe a .box-hover-temas-gestao {
+    background: #ff8040
+}
+.explore-temas-gestao li.software-nfe .border-tema {
+    width: 100%;
+    height: 2px;
+    position: absolute;
+    background: #e34c00;
+    z-index: 1;
+    bottom: 0
+}
+.explore-temas-gestao li.software-nfe:hover .border-tema {
+    top: 0
+}
+.explore-temas-gestao li.software-oficina {
+    background: #ffbf40
+	}
+.explore-temas-gestao li.software-oficina a:hover {
+    background-color: #ffbf40
+}
+.explore-temas-gestao li.software-oficina a {
+    background: #ffbf40
+}
+.explore-temas-gestao li.software-oficina a a:hover {
+    background-color: #ffbf40
+}
+.explore-temas-gestao li.software-oficina a .box-hover-temas-gestao {
+    background: #ffbf40
+}
+.explore-temas-gestao li.software-oficina .border-tema {
+    width: 100%;
+    height: 2px;
+    position: absolute;
+    background: #e39700;
+    z-index: 1;
+    bottom: 0
+}
+.explore-temas-gestao li.software-oficina:hover .border-tema {
+    top: 0
+}
+.explore-temas-gestao li.software-ecommerce {
+    background: #83bf30
+}
+.explore-temas-gestao li.software-ecommerce a:hover {
+    background-color: #83bf30
+}
+.explore-temas-gestao li.software-ecommerce a {
+    background: #83bf30
+}
+.explore-temas-gestao li.software-ecommerce a a:hover {
+    background-color: #83bf30
+}
+.explore-temas-gestao li.software-ecommerce a .box-hover-temas-gestao {
+    background: #83bf30
+}
+.explore-temas-gestao li.software-ecommerce .border-tema {
+    width: 100%;
+    height: 2px;
+    position: absolute;
+    background: #51761e;
+    z-index: 1;
+    bottom: 0
+}
+.explore-temas-gestao li.software-ecommerce:hover .border-tema {
+    top: 0
+}
+.explore-temas-gestao li.software-pizzaria {
+    background: #bf303c
+}
+.explore-temas-gestao li.software-pizzaria a:hover {
+    background-color: #bf303c
+}
+.explore-temas-gestao li.software-pizzaria a {
+    background: #bf303c
+}
+.explore-temas-gestao li.software-pizzaria a a:hover {
+    background-color: #bf303c
+}
+.explore-temas-gestao li.software-pizzaria a .box-hover-temas-gestao {
+    background: #bf303c
+}
+.explore-temas-gestao li.software-pizzaria .border-tema {
+    width: 100%;
+    height: 2px;
+    position: absolute;
+    background: #761e25;
+    z-index: 1;
+    bottom: 0
+}
+.explore-temas-gestao li.software-pizzaria:hover .border-tema {
+    top: 0
+}
+.explore-temas-gestao li.software-comercio {
+    background: #14adcc
+}
+.explore-temas-gestao li.software-comercio a:hover {
+    background-color: #14adcc
+}
+.explore-temas-gestao li.software-comercio a {
+    background: #14adcc
+}
+.explore-temas-gestao li.software-comercio a a:hover {
+    background-color: #14adcc
+}
+.explore-temas-gestao li.software-comercio a .box-hover-temas-gestao {
+    background: #14adcc
+}
+.explore-temas-gestao li.software-comercio .border-tema {
+    width: 100%;
+    height: 2px;
+    position: absolute;
+    background: #0c6678;
+    z-index: 1;
+    bottom: 0
+}
+.explore-temas-gestao li.software-comercio:hover .border-tema {
+    top: 0
+}
+.explore-temas-gestao li.software-disk-entrega {
+    background: #994599
+}
+.explore-temas-gestao li.software-disk-entrega a:hover {
+    background-color: #994599
+}
+.explore-temas-gestao li.software-disk-entrega a {
+    background: #994599
+}
+.explore-temas-gestao li.software-disk-entrega a a:hover {
+    background-color: #994599
+}
+.explore-temas-gestao li.software-disk-entrega a .box-hover-temas-gestao {
+    background: #994599
+}
+.explore-temas-gestao li.software-disk-entrega .border-tema {
+    width: 100%;
+    height: 2px;
+    position: absolute;
+    background: #5a285a;
+    z-index: 1;
+    bottom: 0
+}
+.explore-temas-gestao li.software-disk-entrega:hover .border-tema {
+    top: 0
+}
+
+
+
+
+
+
+.explore-temas-gestao li.software-salao-de-beleza {
+    background: #bf303c
+}
+.explore-temas-gestao li.software-salao-de-beleza a:hover {
+    background-color: #bf303c
+}
+.explore-temas-gestao li.software-salao-de-beleza a {
+    background: #bf303c
+}
+.explore-temas-gestao li.software-salao-de-beleza a a:hover {
+    background-color: #bf303c
+}
+.explore-temas-gestao li.software-salao-de-beleza a .box-hover-temas-gestao {
+    background: #bf303c
+}
+.explore-temas-gestao li.software-salao-de-beleza .border-tema {
+    width: 100%;
+    height: 2px;
+    position: absolute;
+    background: #761e25;
+    z-index: 1;
+    bottom: 0
+}
+.explore-temas-gestao li.software-salao-de-beleza:hover .border-tema {
+    top: 0
+}
+
+
+
+
+.explore-temas-gestao li.software-academia {
+    background: #994599
+}
+.explore-temas-gestao li.software-academia a:hover {
+    background-color: #994599
+}
+.explore-temas-gestao li.software-academia a {
+    background: #994599
+}
+.explore-temas-gestao li.software-academia a a:hover {
+    background-color: #994599
+}
+.explore-temas-gestao li.software-academia a .box-hover-temas-gestao {
+    background: #994599
+}
+.explore-temas-gestao li.software-academia .border-tema {
+    width: 100%;
+    height: 2px;
+    position: absolute;
+    background: #5a285a;
+    z-index: 1;
+    bottom: 0
+}
+.explore-temas-gestao li.software-academia:hover .border-tema {
+    top: 0
+}
+
+
+
+
+
+.explore-temas-gestao li.software-restaurante {
+    background: #00cc92
+}
+.explore-temas-gestao li.software-restaurante a:hover {
+    background-color: #00cc92
+}
+.explore-temas-gestao li.software-restaurante a {
+    background: #00cc92
+}
+.explore-temas-gestao li.software-restaurante a a:hover {
+    background-color: #00cc92
+}
+.explore-temas-gestao li.software-restaurante a .box-hover-temas-gestao {
+    background: #00cc92
+}
+.explore-temas-gestao li.software-restaurante .border-tema {
+    width: 100%;
+    height: 2px;
+    position: absolute;
+    background: #007050;
+    z-index: 1;
+    bottom: 0
+}
+.explore-temas-gestao li.software-restaurante:hover .border-tema {
+    top: 0
+}
+
+
+
+
+.explore-temas-gestao li.software-petshop {
+    background: #00cc92
+}
+.explore-temas-gestao li.software-petshop a:hover {
+    background-color: #00cc92
+}
+.explore-temas-gestao li.software-petshop a {
+    background: #00cc92
+}
+.explore-temas-gestao li.software-petshop a a:hover {
+    background-color: #00cc92
+}
+.explore-temas-gestao li.software-petshop a .box-hover-temas-gestao {
+    background: #00cc92
+}
+.explore-temas-gestao li.software-petshop .border-tema {
+    width: 100%;
+    height: 2px;
+    position: absolute;
+    background: #007050;
+    z-index: 1;
+    bottom: 0
+}
+.explore-temas-gestao li.software-petshop:hover .border-tema {
+    top: 0
+}
+.explore-temas-gestao li.software-informatica {
+    background: #996f45
+}
+.explore-temas-gestao li.software-informatica a:hover {
+    background-color: #996f45
+}
+.explore-temas-gestao li.software-informatica a {
+    background: #996f45
+}
+.explore-temas-gestao li.software-informatica a a:hover {
+    background-color: #996f45
+}
+.explore-temas-gestao li.software-informatica a .box-hover-temas-gestao {
+    background: #996f45
+}
+.explore-temas-gestao li.software-informatica .border-tema {
+    width: 100%;
+    height: 2px;
+    position: absolute;
+    background: #5a4128;
+    z-index: 1;
+    bottom: 0
+}
+.explore-temas-gestao li.software-informatica:hover .border-tema {
+    top: 0
+}
+.explore-temas-gestao li.software-motoboy {
+    background: #a1adb3
+}
+.explore-temas-gestao li.software-motoboy a:hover {
+    background-color: #a1adb3
+}
+.explore-temas-gestao li.software-motoboy a {
+    background: #a1adb3
+}
+.explore-temas-gestao li.software-motoboy a a:hover {
+    background-color: #a1adb3
+}
+.explore-temas-gestao li.software-motoboy a .box-hover-temas-gestao {
+    background: #a1adb3
+}
+.explore-temas-gestao li.software-motoboy .border-tema {
+    width: 100%;
+    height: 2px;
+    position: absolute;
+    background: #6f8089;
+    z-index: 1;
+    bottom: 0
+}
+.explore-temas-gestao li.software-motoboy:hover .border-tema {
+    top: 0
+}
+.explore-temas-gestao li.entenda_temas_gestao {
+    background: #297acc
+}
+.explore-temas-gestao li.entenda_temas_gestao a:hover {
+    background-color: #297acc
+}
+.explore-temas-gestao li.entenda_temas_gestao a {
+    background: #297acc
+}
+.explore-temas-gestao li.entenda_temas_gestao a a:hover {
+    background-color: #297acc
+}
+.explore-temas-gestao li.entenda_temas_gestao a .box-hover-temas-gestao {
+    background: #297acc
+}
+.explore-temas-gestao li.entenda_temas_gestao .border-tema {
+    width: 100%;
+    height: 2px;
+    position: absolute;
+    background: #1a4c80;
+    z-index: 1;
+    bottom: 0
+}
+.explore-temas-gestao li.entenda_temas_gestao:hover .border-tema {
+    top: 0
+}
+nav ul, nav ol {
+    list-style: outside none none;
+}
+.left{float:left;}
+.ico {
+    background-image: url('../imagens/ico-s560cd92890.png');
+    background-repeat: no-repeat;
+	display: inline-block;
+}
+.ico-new_ico_pessoas {
+    background-position: 0 -5941px;
+    height: 50px;
+    width: 50px;
+}
+.texto_clique_icone{color:#2c3e50;}
+.fale-especialista{text-align:left;padding:40px 0 40px 0;float:left;width:100%;clear:both;background:#f2f9ff}.fale-especialista .wrapper{padding-left:70px}.fale-especialista .box-left{float:left;width: 45%;}.fale-especialista .box-left:last-child{margin-left:40px}.fale-especialista h2{margin: 20px 0 0 0;color:#2c3e50;font-size:24px;font-weight:900;padding-bottom:0px;text-align:right}.fale-especialista h3{font-size:0x;margin: 5px 0;padding-bottom:16px;text-align:right}
+
+a.btn-duas-linhas {
+    background: #2e66b7;
+    text-align: center;
+    height: auto;
+    padding: 12px 60px
+}
+a.btn-duas-linhas:hover {
+    background: #2a5597
+}
+a.btn-duas-linhas strong {
+    font-size: 30px;
+    font-weight: 900;
+    display: block;
+    line-height: 1;
+    padding-bottom: 5px
+}
+a.btn-duas-linhas span {
+    display: block;
+    padding: 0 0 0 0;
+    height: auto;
+    background: none;
+    margin: 0;
+    font-size: 16px
+}
+div.fale-com {
+    font-size: 14px;
+    padding-bottom: 25px
+}
+div.fale-com p {
+    float: left;
+    width: 560px;
+    text-align: right;
+    color: #2c3e50;
+    padding: 14px 25px 0 0;
+    margin-top: 14px;
+    font-size: 18px
+}
+div.fale-com p strong {
+    font-size: 26px;
+    padding: 0 0 2px 0
+}
+div.fale-com a.quadrado-azul {
+    display: block;
+    float: left;
+    padding: 13px 5px 18px 5px;
+    background: #2e66b7;
+    color: #fff;
+    text-align: center;
+    margin-top: 14px;
+    min-width: 200px;
+    min-height: 80px
+}
+div.fale-com a.quadrado-azul strong {
+    font-size: 28px;
+    line-height: 0.9;
+    padding: 0 0 7px 0
+}
+div.fale-com a.quadrado-azul:hover {
+    background: #2a5597
+}
+div.fale-com strong {
+    float: left;
+    clear: both;
+    width: 100%
+}
+div.fale-com.acesse a.quadrado-azul {
+    padding-top: 25px
+}
+.acesse a.btn-duas-linhas {
+    padding: 25px 10px !important
+}.wrapper {
+    height: auto;
+    margin: 0 auto;
+    width: 940px;
+}
+
+.vantagens{margin-top:30px;padding:60px 0 0 0;float:left;width:100%}.vantagens .seta{text-align:center;padding:40px 0}.vantagens .seta i{cursor:pointer}.vantagens h2{font-size:48px;letter-spacing:-0.05em;line-height:1;text-align:center;color:#2c3e50;font-family: Lato,arial,helvetica,sans-serif;}.vantagens h2 strong{font-weight:900;color:#2e66b7;font-family: Lato,arial,helvetica,sans-serif;}
+
+.vantagens a:hover {
+    text-decoration: none;
+}
+
+
+.widget-video-home{padding:20px;margin-top:40px}.widget-video-home .palco{float:left;width:600px;margin-right:20px}.widget-video-home .palco iframe{display:block;width:600px;height:400px}.widget-video-home .palco object{display:block;width:600px;height:400px}.widget-video-home .chamadas{float:left;padding:0;margin:0;width:280px}.widget-video-home .chamadas a{color:#5c6d7e;display:block;padding:33px 0;border-bottom:1px solid #e6e6e6;font-size:16px;font-weight:700;cursor:default}.widget-video-home .chamadas a .numero{display:block;width:31px;border-top:2px solid #5c6d7e;font-weight:900;font-size:18px;padding-bottom:8px;padding-top:2px}.fale-especialista{text-align:center;padding:40px 0 40px 0;float:left;width:100%;clear:both;background:#f2f9ff}
+li {
+    list-style: outside none none !important;
+}
+.img_ecommercesite{text-align:center;}
+.espaco_ecommerce{padding: 70px 0 0 0;}
